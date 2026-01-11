@@ -40,7 +40,7 @@ By connecting modern GitHub Actions or Gitea Actions workflows with existing Jen
 
 Check out [Connecting Your Worlds: A Guide to Integrating GitHub Actions and Jenkins](https://speakerdeck.com/appleboy/connecting-your-worlds-a-guide-to-integrating-github-actions-and-jenkins) for more details.
 
-![jenkins](./images/jenkins-en_800x600.png)
+![jenkins](./images/jenkins-en_800x447.png)
 
 ## Usage
 
@@ -80,7 +80,7 @@ Please make sure that you create the `/data/jenkins` before starting the Jenkins
 
 Go to user profile and click on `Configure`:
 
-![jenkins](./images/user-api-token_1024x704.png)
+![jenkins](./images/user-api-token_800x550.png)
 
 ## Authentication and CSRF Protection
 

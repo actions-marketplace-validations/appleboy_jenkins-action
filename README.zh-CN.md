@@ -40,7 +40,7 @@
 
 查看 [Connecting Your Worlds: A Guide to Integrating GitHub Actions and Jenkins](https://speakerdeck.com/appleboy/connecting-your-worlds-a-guide-to-integrating-github-actions-and-jenkins) 了解更多详情。
 
-![jenkins](./images/jenkins-zh_800x600.png)
+![jenkins](./images/jenkins-zh_800x447.png)
 
 ## 使用方式
 
@@ -81,7 +81,7 @@ docker run \
 
 前往用户配置文件并点击 `Configure`：
 
-![jenkins](./images/user-api-token_1024x704.png)
+![jenkins](./images/user-api-token_800x550.png)
 
 ## 身份验证与 CSRF 保护
 
